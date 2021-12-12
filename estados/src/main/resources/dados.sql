@@ -1,1 +1,0 @@
-INSERT INTO ESTADO(nome, regiao, populacao, capital, area) VALUES('Sao Paulo', 'Sudeste', '1500', 'Sao Paulo', '5555');
